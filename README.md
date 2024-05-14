@@ -44,10 +44,15 @@ Any feedback or suggestions are welcome. Please reach us at jam.noreply@gmail.co
 **By Anna, Juliana, Chris, Marcelo, Luigi and Alejandro**  
 
 Anna Kucherenko - [Github](https://github.com/AnnaKucherenko1) - [LinkedIn](www.linkedin.com/in/anna-kucherenko1)  
+
 Luigi Faldetta - [Github](https://github.com/luigi-faldetta) - [LinkedIn](https://www.linkedin.com/in/alejandro-pemu/)  
+
 Alejandro Penalver Munita - [Github](https://github.com/alepemu) - [LinkedIn](https://www.linkedin.com/in/luigi-faldetta-a02ab817b/)
+
 Juliana Ribas - [Github](https://github.com/juliana-ribas) - [LinkedIn](www.linkedin.com/in/juliana-ribas-60b125134/)
+
 Chris Scheppele - [Github](https://github.com/cscheppele) - [LinkedIn](www.linkedin.com/in/cscheppele/)
+
 Marcelo Suarez Velarde - [Github](https://github.com/marce-msv) - [LinkedIn](www.linkedin.com/in/marcesv/)
 
 
